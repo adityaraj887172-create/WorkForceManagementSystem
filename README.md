@@ -17,6 +17,14 @@ Java-based desktop application for managing employees and workforce data.
 - JDBC
 
 ## How to Run
+## ▶️ Run Project
+
+First way:
+Download the JAR file from Releases and run:
+
+java -jar WorkForceManagementSystem.jar
+
+Second way:
 1. Clone the repository
 2. Open in IntelliJ IDEA
 3. Configure MySQL database
