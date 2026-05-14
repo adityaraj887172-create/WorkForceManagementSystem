@@ -1,4 +1,4 @@
-package employee.management.system;
+package workforce.management.system;
 
 import net.proteanit.sql.DbUtils;
 
@@ -74,6 +74,7 @@ public class View_Employee extends JFrame implements ActionListener {
         setSize(900,700);
         setLayout(null);
         setLocation(300,100);
+        setResizable(false);
         setVisible(true);
 
     }

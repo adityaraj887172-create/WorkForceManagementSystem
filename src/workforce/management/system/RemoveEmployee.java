@@ -1,4 +1,4 @@
-package employee.management.system;
+package workforce.management.system;
 
 import javax.swing.*;
 import java.awt.*;
@@ -137,6 +137,7 @@ public class RemoveEmployee extends JFrame implements ActionListener {
 
         setSize(1000,400);
         setLocation(300,150);
+        setResizable(false);
         setLayout(null);
         setVisible(true);
 

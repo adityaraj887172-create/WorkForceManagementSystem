@@ -1,4 +1,4 @@
-package employee.management.system;
+package workforce.management.system;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

@@ -1,4 +1,4 @@
-package employee.management.system;
+package workforce.management.system;
 
 import javax.swing.*;
 import java.awt.*;
@@ -7,7 +7,7 @@ public class Splash extends JFrame {
 
     Splash(){
 
-        ImageIcon i1=new ImageIcon(ClassLoader.getSystemResource("icons/front.gif"));
+        ImageIcon i1=new ImageIcon(ClassLoader.getSystemResource("icons/WFM.jpg"));
         Image i2 =  i1.getImage().getScaledInstance(1170,650,Image.SCALE_DEFAULT);
         ImageIcon i3 = new ImageIcon(i2);
         JLabel image = new JLabel(i3);
@@ -17,11 +17,12 @@ public class Splash extends JFrame {
 
         setSize(1170,650);
         setLocation(200,50);
+        setResizable(false);
         setLayout(null);
         setVisible(true);
 
         try{
-            Thread.sleep(3000);
+            Thread.sleep(2000);
             setVisible(false);
             new Login();
 

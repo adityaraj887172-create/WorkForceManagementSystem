@@ -1,4 +1,4 @@
-package employee.management.system;
+package workforce.management.system;
 
 import javax.swing.*;
 import java.awt.*;
@@ -62,6 +62,7 @@ public class Login extends JFrame implements ActionListener {
 
         setSize(600,300);
         setLocation(450,200);
+        setResizable(false);
         setLayout(null);
         setVisible(true);
 
@@ -95,7 +96,6 @@ public class Login extends JFrame implements ActionListener {
             System.exit(90);
         }
     }
-
     public static void main(String[] args) {
         new Login();
 
