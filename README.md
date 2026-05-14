@@ -25,5 +25,4 @@ Java-based desktop application for managing employees and workforce data.
 ## Author
 Aditya Rajput
 
-<img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/e46ec320-27f4-4428-ae2a-79f5d4ebbcb6" />
 
