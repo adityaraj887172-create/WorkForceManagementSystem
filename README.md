@@ -23,7 +23,9 @@ First way:
 Download the JAR file from Releases and run:
 
 https://github.com/adityaraj887172-create/WorkForceManagementSystem/releases/download/v1.0/WorkForceManagementSystem.jar
+
 Username = admin
+
 Password = admin123
 
 java -jar WorkForceManagementSystem.jar
