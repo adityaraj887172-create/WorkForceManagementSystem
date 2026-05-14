@@ -19,6 +19,7 @@ Java-based desktop application for managing employees and workforce data.
 ## How to Run
 
 First way:
+
 Download the JAR file from Releases and run:
 
 java -jar WorkForceManagementSystem.jar
