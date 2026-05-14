@@ -17,7 +17,6 @@ Java-based desktop application for managing employees and workforce data.
 - JDBC
 
 ## How to Run
-## ▶️ Run Project
 
 First way:
 Download the JAR file from Releases and run:
